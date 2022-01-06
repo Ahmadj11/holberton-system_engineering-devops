@@ -1,1 +1,1 @@
-# holberton-system_engineering_devops
+This is the README.md for the sell basics
