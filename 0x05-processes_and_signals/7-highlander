@@ -2,7 +2,7 @@
 #this is the highlander script
 while true
 do
-    echo "to infinity and beyond"
+    echo "To infinity and beyond"
     sleep 2
     echo "I am invincible!!!" SIGTERM
 done
