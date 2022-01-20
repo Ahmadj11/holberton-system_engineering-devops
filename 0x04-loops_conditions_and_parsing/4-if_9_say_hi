@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#this is a loop for the if command 
 x=1
 while [ $x -le 10 ] 
 do echo "Best School"
