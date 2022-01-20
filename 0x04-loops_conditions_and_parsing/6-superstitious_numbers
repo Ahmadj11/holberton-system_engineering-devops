@@ -12,9 +12,5 @@ do echo "$x"
        17) echo "bad luck from Italy"
 	   ;;
    esac
-   ((x++))
+   x=$((x+1))
 done
-
-  
-      
-      
