@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 #this is the kill script
-kill $((ps aux | grep "To_infinity_and_beyond"))
+kill "$(pgrep -f ./4-to_infinity_and_beyond)"
+
+
 
 
 
