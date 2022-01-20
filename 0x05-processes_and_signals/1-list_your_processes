@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #This script list the processes
-ps -ef | less
+ps -aux f
+
 
 
 
