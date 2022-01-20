@@ -7,9 +7,9 @@ do echo "$x"
    case "$x" in
        4) echo "bad luck from china"
 	  ;;
-       9) echo "bad luck form japan"
+       9) echo "bad luck fromm japan"
 	   ;;
-       17) echo "bad luck form italy"
+       17) echo "bad luck fromm italy"
 	   ;;
    esac
 done
