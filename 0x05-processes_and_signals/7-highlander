@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#this is the higlander script
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+    trap "echo I am invinceible!!!" SIGTERM
+done
