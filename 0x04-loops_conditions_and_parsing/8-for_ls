@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 #this is the For Is loop
 l=$(ls)
-for i n$l;
+for i n $l;
 do echo "$i" | cut -d "-" -f2
-   done 
+done
+
+
     
