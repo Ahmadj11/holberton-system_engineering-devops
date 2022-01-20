@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #this is the infinity and beyond script
-x=1
-while [ $x -le 10 ]
-    do  echo "To infinity and beyond"
+while [ $true -le 10 ]
+do  echo "To infinity and beyond"
+    sleep 2
 done
+
