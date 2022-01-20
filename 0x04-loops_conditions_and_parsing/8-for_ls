@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 #this is the For Is loop
-l=$(ls)
-for i n $l;
-do echo "$i" | cut -d "-" -f2
+cd=$(ls)
+file=0
+for file in $cd
+do echo "$file" | cut -d "-" -f2
 done
 
 
