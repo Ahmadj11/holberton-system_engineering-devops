@@ -1,4 +1,5 @@
 #!/usr/bin/bash
 #This is the easy bash pid script
-pgrep f "bash"
+pgrep -l "bash"
+
 
