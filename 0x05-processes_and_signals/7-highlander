@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-#this is the higlander script
-while true
+#this is the highlander script
 do
-    echo "To infinity and beyond"
+    echo "to infinity and beyond"
     sleep 2
-    trap echo 
+    trap "echo I am invincible!!!" SIGTERM
 done
